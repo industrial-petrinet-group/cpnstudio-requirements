@@ -1,2 +1,2 @@
-# cpnstudio-requirements
-CPNStudio Requirements Engineering  
+# CPN-Studio Requirements Engineering
+
