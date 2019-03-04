@@ -6,5 +6,5 @@
 4. ability for a substitution transition to refer to a submodel stored in a different file
 5. versioning and diff both at the abstract syntax and concrete syntex level
 6. undo/redo
-7. Ability to go forwards and backwards in an interactive simulation
+7. ability to go forwards and backwards in an interactive simulation - explore a tree-like structure
 8. MORE TO COME HERE
