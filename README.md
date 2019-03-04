@@ -8,4 +8,5 @@
 6. undo/redo
 7. ability to go forwards and backwards in an interactive simulation - explore a tree-like structure
 8. notion of a project explorer containing the submodels and declarations included in the current project 
-9. more to come here
+9. language-aware code editing capabilies for SML declarations, colour sets, and functions
+10. more to come here
